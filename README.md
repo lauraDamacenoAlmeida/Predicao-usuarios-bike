@@ -1,4 +1,4 @@
-# Predição da quantidade de usuarios de bike
+# Predição da quantidade de usuarios de bike usando regressão linear
 
 
 # Requisitos
